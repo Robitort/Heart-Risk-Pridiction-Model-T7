@@ -35,5 +35,7 @@ This project represents one of my initial iterations of a multi-modal AI model f
 ## Project Status
 
 This is an early-stage iteration and will evolve with further research and feedback. Contributions and suggestions are welcome!
+using PTB-XL dataset for the primary basing of the model, ongoing work using MIMIC IV and OASIS Datasets.
+
 
 ---
